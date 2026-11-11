@@ -1,0 +1,20 @@
+## Visual Studio & Build Artifacts
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+## Visual Studio Cache & User Files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Package / Archive
+*.zip
+NetworkedExamEngine_Complete_Solution.zip
